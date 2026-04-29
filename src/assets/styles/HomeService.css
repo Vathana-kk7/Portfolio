@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;   
+}
+.container{
+    margin-top: 5rem;
+}
+.service{
+    color: #f5a623;
+    font-family: 'DM Serif Display', serif;
+   font-weight: bold;
+}
+.controll{
+    display: flex;
+    justify-content: space-between;
+}
+.left-side{
+    background-color: #f5a623;
+    width: 200px;
+    height: 50px;
+    border-radius: 50px;
+    display: flex;
+    border: 1px solid #f5a623;
+}
+.arrow{
+    margin-top: 12px;
+    margin-left: 10px;
+    color: white;
+}

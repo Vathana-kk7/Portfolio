@@ -59,25 +59,26 @@
     <div class="green-stripe"></div>
     <div class="marquee-bar">
       <div class="marquee-track">
-        <span>App Design</span><span class="star">✳</span>
+        <span>I'm wepsite Developer</span><span class="star">✳</span>
         <span>Website Design</span><span class="star">✳</span>
         <span>Dashboard</span><span class="star">✳</span>
         <span>Wireframing</span><span class="star">✳</span>
         <span>Branding</span><span class="star">✳</span>
         <span>App Design</span><span class="star">✳</span>
-        <span>Website Design</span><span class="star">✳</span>
+        <span>UX/UI Design</span><span class="star">✳</span>
         <span>Dashboard</span><span class="star">✳</span>
         <span>Wireframing</span><span class="star">✳</span>
         <span>Branding</span><span class="star">✳</span>
       </div>
     </div>
   </div>
-  
+  <HomeService/>
 </template>
 <script setup>
 import { MousePointer2, MoveUpRight } from 'lucide-vue-next';
   import AOS from 'aos'
   import 'aos/dist/aos.css'
+import HomeService from '../components/sections/HomeService.vue';
 
 AOS.init({
   duration: 1000,

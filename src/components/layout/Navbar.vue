@@ -15,7 +15,6 @@
         <li><router-link to="/skill"    class="nav-link">Skill</router-link></li>
         <li><router-link to="/contact"  class="nav-link">Contact</router-link></li>
       </ul>
-
       <!-- CTA -->
       <router-link to="/contact" class="cta-btn">Contact Me</router-link>
     </nav>
