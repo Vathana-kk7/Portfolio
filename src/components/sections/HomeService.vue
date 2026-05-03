@@ -10,6 +10,7 @@
                  <ArrowRight class="arrow" />
             </div>
         </div>
+        <h1>I'm Phorn Developer</h1>
     </div>
 </template>
 <script setup>
