@@ -11,6 +11,10 @@
             </div>
         </div>
         <h1>I'm Phorn Developer</h1>
+        <h1>I'm Phorn Developer</h1>
+        <h1>Phorn Boy loy</h1>
+        <h1>Phorn Boy loy</h1>
+        <h1>Phorn Boy loy</h1>
     </div>
 </template>
 <script setup>
